@@ -27,29 +27,29 @@ APIs: Flask
 Set up
 
 1. Clone the repository
-   git clone https://github.com/divya-divyanshu/ghgEmissions_AI_Avengers.git
+  [ git clone https://github.com/divya-divyanshu/ghgEmissions_AI_Avengers.git ]
 2. Navigate to the project directory
-   cd foler_name  (eg - cd ghgEmissions_AI_Avengers)
+  [ cd foler_name  (eg - cd ghgEmissions_AI_Avengers) ]
 3. Run the html file
-   index.html
+   [ index.html ]
 
 JupterNoteBook Setup
 
 1. install Jupyter Notebook
-   pip install notebook
+   [ pip install notebook ]
 2. Launch Jupyter Notebook: Navigate to the project directory in your terminal and start the Jupyter Notebook server:
-   jupyter notebook
+   [ jupyter notebook ]
 3. Install Packages - run all the following commnad in your terminal
-   pip install geopandas
-   pip install pandas
-   pip install numpy
-   pip install seaborn
-   pip install matplotlib
-   pip install folium
-   pip install geopy
+   [ pip install geopandas ]
+   [ pip install pandas ]
+   [ pip install numpy ]
+   [ pip install seaborn ]
+   [ pip install matplotlib ]
+   [ pip install folium ]
+   [ pip install geopy ]
 
 4. Navigate to Jupyter Notebook foler
-    cd JupyterNotebbok
+   [ cd JupyterNotebbok ]
 5. Run notebbok (step by step data preprocessing (1) (1).ipynb) in jupyter notebook
 
 Data Sources
