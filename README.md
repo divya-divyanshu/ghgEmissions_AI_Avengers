@@ -2,12 +2,13 @@ GHG Emissions
 
 Table of Contents
 
-Project Overview
-Features
-Technologies Used
-SetUp
-JupterNoteBook Setup
-Data Sources
+
+  Project Overview
+  Features
+  Technologies Used
+  SetUp
+  JupterNoteBook Setup
+  Data Sources
 
 Project Overview
 GHG Emissions AI Avengers is a project aimed at tracking and visualizing human-caused and natural greenhouse gas (GHG) emissions. By utilizing a combination of satellite and model-based datasets, this application provides real-time insights into GHG emissions, helping users understand their contributions to climate change.
